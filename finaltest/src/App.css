@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none;
+}
+
+body {
+  background-color: #ffffff;
+  position: relative;
+  margin: 3rem auto;
+  color: #333333;
+  font-family: "Montserrat", sans-serif;
+  max-width: 685px;
+  min-height: 100vh;
+}
